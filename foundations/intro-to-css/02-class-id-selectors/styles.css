@@ -8,11 +8,11 @@
     font-size: 36px;
 }
 
-.odd.cool {
-    font-size: 24px;
+.cool{
+    font-size: 24x;
 }
 
 #light-green {
-    background-color: rgb(135, 185, 135);
-    font-size: 24px;
+    background-color: rgb(127, 240, 127);
+    font-weight: bold;
 }
