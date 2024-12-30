@@ -8,7 +8,7 @@
   font-weight: 900;
   color: tomato;
   background: white;
-  padding: 4px 32px;
+  padding: 
 }
 
 ul {
@@ -37,5 +37,7 @@ ul {
   display: flex;
   margin: 0;
   padding: 0;
-  gap: 8px;
+  gap: 8px; 
+  display: flex;
+  flex-direction: row;
 }
